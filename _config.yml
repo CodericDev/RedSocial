@@ -1,0 +1,8 @@
+title: Red Social
+description: Proyecto de Red Social para Desarrolladores de Sistemas
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
